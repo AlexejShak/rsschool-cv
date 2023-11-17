@@ -15,14 +15,24 @@ Engineer of heating, ventilation and air conditioning systems. Want to learn JS 
 ***
 
 ## My skills:
+* **NodeJS** *(elementary)*
+* **HTML**   *(elementary)*
+* **CSS**    *(elementary)*
+* **JS**     *(elementary)* 
+* **Git**    *(basic)*
 
 
 ***
 
 ##  Education: 
+ 1. **BNTU**: 
+    * Faculty of Energy Construction
 
 
 ***
 
 ## Languages: 
 
+* **English** *(upper intermediate)*
+* **Russian** *(native)*
+* **German** *(intermediate)*
