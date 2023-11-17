@@ -3,7 +3,7 @@
 ***
 
 ## Contact info:
- [**e-mail: *alexejshakinko@gmail.com***](e-mail:alphie.shakinko@gmail.com)
+ [**e-mail: *alphie.shakinko@gmail.com***](e-mail:alphie.shakinko@gmail.com)
 
 [**tel *+375 (29) 111 22 33***](tel:+375291112233)
 ***
